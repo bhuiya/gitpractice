@@ -1,15 +1,18 @@
 
+ // git branch
+ 
+
     mkdir Github
-    
+
     cd Github/
-   
+
     touch index.html
-   
+
     git init
-    
+
     vi index.html
     atom .
-    
+
     less index.html
     git add-A
     git status
@@ -17,4 +20,3 @@
     git status
     git remote add origin https://github.com/bhuiya/gitpractice.git
     git push -u origin master
-   
